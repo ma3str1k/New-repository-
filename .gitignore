@@ -1,0 +1,29 @@
+# Windows 
+Thumbs.db
+ehthubms.db
+desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# IDE
+.vscode/
+.idea/
+
+# pgAdmin / PostgreSQL
+pgadmin4.db
+pgadmin4.log
+*.backup
+*.bak
+*.dump
+*.log
+
+# Visual Studio / .NET
+.vs/
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+*.user
+*.suo
+*.nupkg
+TestResults/
