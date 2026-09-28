@@ -1,0 +1,20 @@
+# Windows 
+Thumbs.db
+ehthubms.db
+desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# IDE
+.vscode/
+.idea/
+
+# pgAdmin / PostgreSQL
+pgadmin4.db
+pgadmin4.log
+sessions/
+storage/
+*.backup
+*.bak
+*.dump
+*.log

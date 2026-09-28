@@ -1,0 +1,12 @@
+* text=auto
+
+# Бинарные файлы
+*.docx binary
+*.doc binary
+*.xlsx binary
+*.pptx binary
+*.pfd binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.zip binary
