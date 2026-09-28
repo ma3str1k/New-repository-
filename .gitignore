@@ -12,9 +12,18 @@ $RECYCLE.BIN/
 # pgAdmin / PostgreSQL
 pgadmin4.db
 pgadmin4.log
-sessions/
-storage/
 *.backup
 *.bak
 *.dump
 *.log
+
+# Visual Studio / .NET
+.vs/
+bin/
+obj/
+[Dd]ebug/
+[Rr}elease/
+*.user
+*.suo
+*.nupkg
+TestResults/
